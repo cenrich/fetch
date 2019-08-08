@@ -1,24 +1,27 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Cecilia Enrich",
+    "cvTitle":"Front End Developer (very Jr, very difficult)",
+    "cvDescription":"Student at Ada ITW, Front End Dev in the making. Former chemical engineer.",
     "social":[
-        {"name":"", "link":""}
+        {"name":"LinkedIn", "link":"https://www.linkedin.com/in/cenrich/"},
+        {"name":"Twitter", "link":"https://twitter.com/cecinessa"},
+        {"name":"Instagram", "link":"https://www.instagram.com/cecinesa/"},
+        {"name":"Instagram", "link":"https://www.facebook.com/cecilia.enrich"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Front End Developer", "institution":"Ada ITW", "endYear":"2019", "description":"HTML, CSS, SASS, Javascript"},
+        {"title":"Chemical Engineer", "institution":"Universidad de Buenos Aires", "endYear":"2010", "description":"Happiness & stuff"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"English", "level":"Advanced (C1)"},
+        {"title":"Other stuff", "level":"It depends"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"My cat is the best", "sutitle":"10 reasons why", "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at auctor sem, et ullamcorper ligula. Morbi tincidunt, nisl eget tincidunt scelerisque, ipsum urna ultricies metus, in volutpat massa nulla in elit.", "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at auctor sem, et ullamcorper ligula. Morbi tincidunt, nisl eget tincidunt scelerisque, ipsum urna ultricies metus, in volutpat massa nulla in elit.", "images":"images/cat.jpg"},
+        {"title":"Fridays are the best", "sutitle":"5 reasons why", "excerpt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at auctor sem, et ullamcorper ligula. Morbi tincidunt, nisl eget tincidunt scelerisque, ipsum urna ultricies metus, in volutpat massa nulla in elit. ", "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at auctor sem, et ullamcorper ligula. Morbi tincidunt, nisl eget tincidunt scelerisque, ipsum urna ultricies metus, in volutpat massa nulla in elit. ", "images":"images/cat.jpg"}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"+5491151747474",
+        "email":"ceci_enrich@hotmail.com"
     }
 }
